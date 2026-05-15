@@ -19,3 +19,24 @@
    ```   git push origin new-feature
    ```
 6. 在GitHub上创建Pull Request，等待代码审核和合并
+
+# MiniPro
+
+一个用于学习前后端分离的小项目。
+
+## 技术栈
+
+- Python
+- Flask
+- HTML/CSS/JavaScript
+
+## 功能
+
+- 前后端分离练习
+- API 调用
+- 页面交互
+
+## 启动方式
+
+```bash
+python app.py
