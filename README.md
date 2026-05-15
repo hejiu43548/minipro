@@ -6,17 +6,21 @@
    git clone
     ```
 2. 进入项目目录
-   ```   cd project
+   ```   
+   cd project
    ```
 3. 创建新的分支
-   ```   git checkout -b new-feature
+   ```   
+   git checkout -b new-feature
    ```
 4. 进行代码修改并提交
-   ```   git add .
+   ```   
+   git add .
    git commit -m "Add new feature"
    ```
 5. 推送分支到远程仓库
-   ```   git push origin new-feature
+   ```   
+   git push origin new-feature
    ```
 6. 在GitHub上创建Pull Request，等待代码审核和合并
 
